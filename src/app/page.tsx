@@ -85,7 +85,9 @@ export default function Home() {
                                     <div className="text-slate-500">Pretium lectus quam id leo. Urna et pharetra aliquam vestibulum morbi blandit cursus risus.</div>
                                 </div>
                             </div>
-
+                            <Activity Title="This is some title" Date="15/01/2024" Content="This is some random text" />
+                            <Activity Title="This should go to other side" Date="25/02/2024" Content="This is another random text" />
+                            <Activity Title="This should be done" Date="25/02/2024" Content="This is done" />
                         </div>
 
                     </div>
