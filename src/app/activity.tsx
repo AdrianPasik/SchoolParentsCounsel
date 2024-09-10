@@ -19,7 +19,7 @@ export default function Activity(props: {
         if (activityDate < today) {
             setIsDone(true);
         }
-    }, []);
+    }, [props.Date]);
 
     return (
         <div className={isDone ? upperCssDisabled : upperCss}>
