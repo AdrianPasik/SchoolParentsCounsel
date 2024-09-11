@@ -1,2 +1,3 @@
-![example workflow](https://github.com/github/docs/actions/workflows/pages-build-deployment/badge.svg)
-This is small project to show activities and expenses of School Counsel
+This is small project to show activities of School Counsel
+
+Deployed on https://adrianpasik.github.io/SchoolParentsCounsel/
